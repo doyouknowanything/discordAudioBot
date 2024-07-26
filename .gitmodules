@@ -1,0 +1,3 @@
+[submodule "subrepos/DPP"]
+	path = subrepos/DPP
+	url = https://github.com/brainboxdotcc/DPP.git
